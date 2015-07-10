@@ -1,0 +1,29 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "js": [ "scripts/content-min.js" ],
+      "matches": [ "http://*/*", "https://*/*", "file://*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "zh_CN",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "icons/ie_128.png",
+      "16": "icons/ie_16.png",
+      "48": "icons/ie_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhmP05wILd8prGaSnI9i3gnZiYyLlpl67zseJFNhzNREKEYPVvsQQOM8SEC19Bm5a97G1DNwo5v4SQzOp0i2Hf1o7FBLDbyE9OLceXAks0GwmXQ+Exam/3yI33eLV3YRxRLIMPzmCgqf7OGk5H0frAWPZh5v8+qM3hbgOgXuWOaI7KOk8YNyILZqmCHfNISjVIMKLLU4Y4HBOO733gMFG9BG7YxnMJ01/8FCwvqSm/HEytHOd9dDxMlRCaAi0Gt7/th1XMpV7zp2e4+r9CQnfC5ZsCvHpHEz4V6WDNrIFSPqFT0dbQ6ukj3scsdCsKs/Op+7fMzCq/m/V+f9kZC4R/QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "options_page": "option.html",
+   "page_action": {
+      "default_icon": "icons/chrome_48.png",
+      "default_title": "__MSG_default_title__"
+   },
+   "permissions": [ "http://*/*", "https://*/*", "tabs", "cookies", "storage", "management", "contextMenus", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0.4"
+}

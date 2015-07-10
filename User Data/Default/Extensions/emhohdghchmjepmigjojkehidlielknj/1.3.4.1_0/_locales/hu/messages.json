@@ -1,0 +1,221 @@
+{
+   "cLog_title": {
+      "message": "V\u00E1ltoz\u00E1slista"
+   },
+   "cred_line1": {
+      "message": "A SimpleUndoClose a \u003Ca href=\"https://chrome.google.com/webstore/detail/bcennaiejdjpomgmmohhpgnjlmpcjmbg\"\u003ESexy Undo Close Tab\u003C/a\u003E alapj\u00E1n k\u00E9sz\u00FClt."
+   },
+   "cred_line2": {
+      "message": "K\u00F6sz\u00F6net az Undo Close tab fejleszt\u0151j\u00E9nek, ami pedig a Sexy Undo Close Tab kieg\u00E9sz\u00EDt\u0151t ihlette."
+   },
+   "cred_line3": {
+      "message": "V\u00E9g\u00FCl k\u00F6sz\u00F6net az \u00F6sszes t\u00F6bbi kieg\u00E9sz\u00EDt\u0151nek, amik tal\u00E1n az Undo Close tab kieg\u00E9sz\u00EDt\u0151t ihlett\u00E9k. :)"
+   },
+   "cred_line4": {
+      "message": "A jobb fels\u0151 sarokban l\u00E1that\u00F3 ikonok az \u003Ca href=\"https://developer.android.com/design/index.html\"\u003EAndroid Design\u003C/a\u003E oldalr\u00F3l sz\u00E1rmaznak."
+   },
+   "cred_title": {
+      "message": "N\u00E9vjegy"
+   },
+   "ext_font": {
+      "message": "'Segoe UI', Tahoma, sans-serif"
+   },
+   "feed_text1": {
+      "message": "Ha \u00E9szrevett\u00E9l egy hib\u00E1t, k\u00E9rd\u00E9sed vagy javaslatod van, \u00EDrj egy \u00FCzenetet!"
+   },
+   "feed_text2": {
+      "message": "Itt tudsz nekem \u00EDrni"
+   },
+   "feed_title": {
+      "message": "Visszajelz\u00E9s"
+   },
+   "html_topbtn_tooltip1": {
+      "message": "Be\u00E1ll\u00EDt\u00E1sok"
+   },
+   "html_topbtn_tooltip2": {
+      "message": "N\u00E9vjegy \u00E9s v\u00E1ltoz\u00E1slista"
+   },
+   "html_topbtn_tooltip3": {
+      "message": "Inform\u00E1ci\u00F3"
+   },
+   "manifest_description": {
+      "message": "Egy egyszer\u0171 eszk\u00F6z a bez\u00E1rt f\u00FClek \u00FAjranyit\u00E1s\u00E1hoz, \u00E9s egy kicsit t\u00F6bbh\u00F6z."
+   },
+   "manifest_toolbarbtn_tooltip": {
+      "message": "Bez\u00E1rt f\u00FClek"
+   },
+   "opt_blogbtn_tooltip": {
+      "message": "A blog megl\u00E1togat\u00E1sa"
+   },
+   "opt_func_opt1": {
+      "message": "Kifejez\u00E9s keres\u00E9se:"
+   },
+   "opt_func_opt10": {
+      "message": "A f\u00FClenk\u00E9nt megjelen\u00EDtend\u0151 sorok sz\u00E1ma:"
+   },
+   "opt_func_opt1_tooltip": {
+      "message": "A keres\u0151mez\u0151ben \u00EDrt kifejez\u00E9sekre vonatkozik."
+   },
+   "opt_func_opt2": {
+      "message": "az oldal c\u00EDm\u00E9ben"
+   },
+   "opt_func_opt3": {
+      "message": "az oldal URL-j\u00E9ben"
+   },
+   "opt_func_opt4": {
+      "message": "az oldal c\u00EDm\u00E9ben \u00E9s URL-j\u00E9ben"
+   },
+   "opt_func_opt5": {
+      "message": "Saj\u00E1t billenty\u0171kombin\u00E1ci\u00F3 haszn\u00E1lata"
+   },
+   "opt_func_opt5_tooltip": {
+      "message": "Az al\u00E1bbi oldalakon nem m\u0171k\u00F6dik: a b\u00F6ng\u00E9sz\u0151 Be\u00E1ll\u00EDt\u00E1sok \u00E9s \u00DAj f\u00FCl oldala, Chrome Web Store"
+   },
+   "opt_func_opt6": {
+      "message": "A duplakattint\u00E1s funkci\u00F3 kikapcsol\u00E1sa"
+   },
+   "opt_func_opt6b": {
+      "message": "A triplakattint\u00E1s funkci\u00F3 kikapcsol\u00E1sa"
+   },
+   "opt_func_opt7": {
+      "message": "A bez\u00E1rt f\u00FClek list\u00E1j\u00E1nak ment\u00E9se a b\u00F6ng\u00E9sz\u0151 bez\u00E1r\u00E1sakor"
+   },
+   "opt_func_opt8": {
+      "message": "A menteni k\u00EDv\u00E1nt f\u00FClek sz\u00E1ma:"
+   },
+   "opt_func_opt9": {
+      "message": "Az egy oldalon megjelen\u00EDtend\u0151 f\u00FClek sz\u00E1ma:"
+   },
+   "opt_func_title": {
+      "message": "M\u0171k\u00F6d\u00E9s"
+   },
+   "opt_looks_opt1": {
+      "message": "Az eszk\u00F6zt\u00E1r gombja mutassa a bez\u00E1rt f\u00FClek sz\u00E1m\u00E1t"
+   },
+   "opt_looks_opt10": {
+      "message": "Az ablak sz\u00E9less\u00E9ge:"
+   },
+   "opt_looks_opt2": {
+      "message": "A keres\u0151mez\u0151 fel\u00FCl jelenjen meg"
+   },
+   "opt_looks_opt3": {
+      "message": "A keres\u0151mez\u0151 megjelen\u00EDt\u00E9se"
+   },
+   "opt_looks_opt4": {
+      "message": "A 'T\u00F6rl\u00E9s' gomb megjelen\u00EDt\u00E9se"
+   },
+   "opt_looks_opt5": {
+      "message": "A bez\u00E1r\u00E1s id\u0151pontj\u00E1nak megjelen\u00EDt\u00E9se"
+   },
+   "opt_looks_opt6": {
+      "message": "F\u00E9lk\u00F6v\u00E9r sz\u00F6veg"
+   },
+   "opt_looks_opt7": {
+      "message": "A weboldal c\u00EDm\u00E9nek megjelen\u00EDt\u00E9se az URL helyett az eszk\u00F6ztippekben"
+   },
+   "opt_looks_opt8": {
+      "message": "Alternat\u00EDv eszk\u00F6zt\u00E1r gomb haszn\u00E1lata"
+   },
+   "opt_looks_opt9": {
+      "message": "Az id\u0151t a jobb oldalon mutassa"
+   },
+   "opt_looks_title": {
+      "message": "Megjelen\u00E9s"
+   },
+   "opt_resetbtn": {
+      "message": "A mentett lista t\u00F6rl\u00E9se?"
+   },
+   "opt_resetbtn_popupMsg": {
+      "message": "Ki akarod t\u00F6r\u00F6lni a bez\u00E1rt f\u00FClek list\u00E1j\u00E1t?"
+   },
+   "other_text1": {
+      "message": "Ha k\u00EDv\u00E1ncsi vagy m\u00E1s munk\u00E1imra is, n\u00E9zz sz\u00E9t a DeviantArt oldalamon!"
+   },
+   "other_title": {
+      "message": "Tov\u00E1bbi munk\u00E1im"
+   },
+   "perm_reason1a": {
+      "message": "Az adataidhoz az \u00F6sszes webhelyen"
+   },
+   "perm_reason1b": {
+      "message": "MI\u00C9RT: Az\u00E9rt sz\u00FCks\u00E9ges, hogy a billenty\u0171kombin\u00E1ci\u00F3 m\u0171k\u00F6d\u0151k\u00E9pes legyen az utolj\u00E1ra bez\u00E1rt f\u00FCl \u00FAjranyit\u00E1s\u00E1hoz."
+   },
+   "perm_reason2a": {
+      "message": "A lapokhoz \u00E9s a b\u00F6ng\u00E9sz\u00E9si el\u0151zm\u00E9nyekhez"
+   },
+   "perm_reason2b": {
+      "message": "MI\u00C9RT: Az\u00E9rt sz\u00FCks\u00E9ges, hogy a b\u0151v\u00EDtm\u00E9ny hozz\u00E1f\u00E9rjen a f\u00FClek \u00E1llapot\u00E1hoz \u00E9s tartalm\u00E1hoz."
+   },
+   "perm_text1": {
+      "message": "A SimpleUndoClose hozz\u00E1f\u00E9r:"
+   },
+   "perm_text2": {
+      "message": "Az enged\u00E9lyk\u00E9r\u00E9sekr\u0151l \u003Ca href=\"http://developer.chrome.com/extensions/permission_warnings.html#warnings\"\u003Eitt\u003C/a\u003E olvashatsz b\u0151vebben."
+   },
+   "perm_title": {
+      "message": "Az enged\u00E9lyk\u00E9r\u00E9sek okai"
+   },
+   "popup_clrbtn": {
+      "message": "T\u00F6rl\u00E9s"
+   },
+   "popup_clrbtn_tooltip": {
+      "message": "A lista t\u00F6rl\u00E9se"
+   },
+   "popup_delbtn": {
+      "message": "T\u00F6rl\u00E9s"
+   },
+   "popup_delbtn_tooltip": {
+      "message": "A keres\u00E9ssel kilist\u00E1zott f\u00FClek t\u00F6rl\u00E9se"
+   },
+   "popup_noSearchResult": {
+      "message": "Nincs olyan bez\u00E1rt f\u00FCl, ami tartalmazza a k\u00F6vetkez\u0151 kifejez\u00E9st:"
+   },
+   "popup_noTabsMsg": {
+      "message": "\u003Ccenter\u003ENincsenek bez\u00E1rt f\u00FClek\u003C/center\u003E"
+   },
+   "popup_nxtbtn_tooltip": {
+      "message": "K\u00F6vetkez\u0151 oldal"
+   },
+   "popup_prvbtn_tooltip": {
+      "message": "El\u0151z\u0151 oldal"
+   },
+   "popup_search_tooltip": {
+      "message": "\u00CDrd be a keresett kifejez\u00E9st"
+   },
+   "tips_tip1": {
+      "message": "Billenty\u0171kombin\u00E1ci\u00F3 az utolj\u00E1ra bez\u00E1rt f\u00FCl \u00FAjranyit\u00E1s\u00E1hoz"
+   },
+   "tips_tip1_line1": {
+      "message": "HOGYAN: Enged\u00E9lyezd az opci\u00F3t a be\u00E1ll\u00EDt\u00E1sokban, majd haszn\u00E1ld a be\u00E1ll\u00EDtott billenty\u0171kombin\u00E1ci\u00F3t!"
+   },
+   "tips_tip1_line2": {
+      "message": "MEGJEGYZ\u00C9S: A b\u00F6ng\u00E9sz\u0151 bels\u0151 lapjain nem m\u0171k\u00F6dik."
+   },
+   "tips_tip2": {
+      "message": "Duplakattint\u00E1s az eszk\u00F6zt\u00E1r ikonj\u00E1n az utolj\u00E1ra bez\u00E1rt f\u00FCl \u00FAjranyit\u00E1s\u00E1hoz"
+   },
+   "tips_tip2_line1": {
+      "message": "HOGYAN: Enged\u00E9lyezd az opci\u00F3t a be\u00E1ll\u00EDt\u00E1sokban, majd kattints dupl\u00E1n az eszk\u00F6zt\u00E1ron l\u00E9v\u0151 ikonra!"
+   },
+   "tips_tip2_line2": {
+      "message": "MEGJEGYZ\u00C9S: Egy kicsit gyakorolni kell a megfelel\u0151 id\u0151z\u00EDt\u00E9st."
+   },
+   "tips_tip3": {
+      "message": "Navig\u00E1l\u00E1s billenty\u0171zet seg\u00EDts\u00E9g\u00E9vel a list\u00E1ban"
+   },
+   "tips_tip3_line1": {
+      "message": "HOGYAN: Nyisd meg a list\u00E1t, majd haszn\u00E1ld a kurzormozgat\u00F3 billenty\u0171ket!"
+   },
+   "tips_tip3_line2": {
+      "message": "BILLENTY\u0170K: \u2190, \u2192 = El\u0151z\u0151 \u00E9s k\u00F6vetkez\u0151 oldal; \u2191, \u2193 = Fel \u00E9s le; Enter = F\u00FCl kiv\u00E1laszt\u00E1sa"
+   },
+   "tips_tip4": {
+      "message": "Billenty\u0171kombin\u00E1ci\u00F3 hozz\u00E1rendel\u00E9se a kieg\u00E9sz\u00EDt\u0151h\u00F6z"
+   },
+   "tips_tip4_line1": {
+      "message": "HOGYAN: Nyisd meg a b\u00F6ng\u00E9sz\u0151 B\u0151v\u00EDtm\u00E9nyek oldal\u00E1t, g\u00F6rgess az oldal alj\u00E1ra, \u00E9s kattints a \"B\u0151v\u00EDtm\u00E9nyek billenty\u0171parancsai\" felirat\u00FA gombra!"
+   },
+   "tips_title": {
+      "message": "Haszn\u00E1lati tippek"
+   }
+}

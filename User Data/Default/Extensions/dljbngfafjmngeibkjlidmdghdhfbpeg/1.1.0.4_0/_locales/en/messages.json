@@ -1,0 +1,74 @@
+{
+   "add_msg": {
+      "message": "add"
+   },
+   "auto_rule_instructions": {
+      "message": "Wildcard rules are as follows\uFF1A\n\thttp://www.google.com/*\n\n The regular expression rules\uFF08Beginning with r/\uFF09For example\uFF1Ar/.*google.com.*"
+   },
+   "contextMenu_addRule_lnk_msg": {
+      "message": "Add the link url to auto rule"
+   },
+   "contextMenu_addRule_msg": {
+      "message": "Add current page url to auto rule"
+   },
+   "contextMenu_msg": {
+      "message": "IETab Your Chrome"
+   },
+   "contextMenu_openIe_lnk_msg": {
+      "message": "Use \"IETab Your Chrome \" open the link"
+   },
+   "contextMenu_openIe_msg": {
+      "message": "Use \"IETab Your Chrome\" open current page"
+   },
+   "default_title": {
+      "message": "IETab Your Chrome"
+   },
+   "description": {
+      "message": "IETab Your Chrome\uFF0CDisplay web pages with IE core in your chrome. More efficient \u3001comfortable and stable than other IE extension"
+   },
+   "enableAutoIETab_msg": {
+      "message": "Automatically switch to IE mode "
+   },
+   "enableCookieSync_msg": {
+      "message": "Automatically synchronise cookie"
+   },
+   "exclude_rule_instructions": {
+      "message": "The rules shown above\uFF0Cwhen meet the rules will not automatically switch to IE mode"
+   },
+   "exclude_rules_information": {
+      "message": "Do not automatically switch to IE mode when visit these URL"
+   },
+   "name": {
+      "message": "IETab Your Chrome"
+   },
+   "remove_msg": {
+      "message": "delete"
+   },
+   "rules_information": {
+      "message": "Automatically switch to IE mode when visit these URL"
+   },
+   "save_msg": {
+      "message": "Successfully saved"
+   },
+   "welcome_msg1": {
+      "message": "Dear user, in October 2013, the chrome web store has"
+   },
+   "welcome_msg2": {
+      "message": "banned developers released NPAPI technology extension"
+   },
+   "welcome_msg3": {
+      "message": "\uFF0Cbut IE TAB plug-in must use the technology of a class\uFF0Cin order to ensure IETab Your Chrome normal use\uFF0Cplease manually download and install the core components"
+   },
+   "welcome_msg4": {
+      "message": "\uFF08This package has been pass through kaspersky, NORTON safety test\uFF09\u3002"
+   },
+   "welcome_msg5": {
+      "message": "Click here to download the latest package"
+   },
+   "welcome_msg6": {
+      "message": "Then restart your chrome browser\u3002"
+   },
+   "welcome_title_msg": {
+      "message": "Please update IETab Your Chrome core components"
+   }
+}

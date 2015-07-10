@@ -1,0 +1,68 @@
+{
+   "extDescription": {
+      "description": "Description.",
+      "message": "\u8D85\u7D1A\u62D6\u66F3\uFF0C\u9644\u5E366\u500B\u6700\u5E38\u7528\u9F20\u6A19\u624B\u52E2\u3002"
+   },
+   "extName": {
+      "description": "Extension name.",
+      "message": "\u8D85\u7D1A\u62D6\u66F3"
+   },
+   "option_alt_key": {
+      "message": "\u6309\u4E0BALT\u9375"
+   },
+   "option_copyright": {
+      "message": "Wenzhang Zhu"
+   },
+   "option_ctrl_key": {
+      "message": "\u6309\u4E0BCTRL\u9375"
+   },
+   "option_disable_drag": {
+      "message": "\u4E0B\u5217\u4EFB\u4F55\u4E00\u500B\u689D\u4EF6\u6EFF\u8DB3\uFF0C\u5247\u8D85\u7D1A\u62D6\u66F3\u7121\u6548"
+   },
+   "option_enable_gesture": {
+      "message": "\u652F\u63016\u500B\u5E38\u7528\u9F20\u6A19\u624B\u52E2\u3002"
+   },
+   "option_gesture_down": {
+      "message": "\u6EFE\u52D5\u81F3\u5E95\u90E8"
+   },
+   "option_gesture_down_right": {
+      "message": "\u95DC\u9589"
+   },
+   "option_gesture_left": {
+      "message": "\u5411\u5F8C"
+   },
+   "option_gesture_right": {
+      "message": "\u5411\u524D"
+   },
+   "option_gesture_title": {
+      "message": "\u9F20\u6A19\u624B\u52E2"
+   },
+   "option_gesture_up": {
+      "message": "\u6EFE\u52D5\u5230\u9802\u90E8"
+   },
+   "option_gesture_up_down": {
+      "message": "\u5237\u65B0"
+   },
+   "option_hint": {
+      "message": "\u8A2D\u7F6E\u5DF2\u4FDD\u5B58\u3002"
+   },
+   "option_reset": {
+      "message": "\u6062\u5FA9\u8A2D\u7F6E"
+   },
+   "option_right_button": {
+      "message": "\u624B\u52E2\u4F7F\u7528\u9F20\u6A19\u53F3\u9375\uFF08\u5982\u679C\u4E0D\u9078\u6B64\u9805\uFF0C\u9ED8\u8A8D\u70BA\u9F20\u6A19\u5DE6\u9375\uFF09"
+   },
+   "option_save": {
+      "description": "Button text to save the options",
+      "message": "\u4FDD\u5B58\u8A2D\u7F6E"
+   },
+   "option_search_engine": {
+      "message": "\u641C\u7D22\u5F15\u64CE\u7684\u67E5\u8A62\u5B57\u7B26\u4E32"
+   },
+   "option_search_engine_title": {
+      "message": "\u641C\u7D22\u5F15\u64CE"
+   },
+   "option_title": {
+      "message": "Chrome\u8D85\u7D1A\u62D6\u66F3\u9078\u9805"
+   }
+}

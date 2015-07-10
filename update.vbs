@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "update.bat",0

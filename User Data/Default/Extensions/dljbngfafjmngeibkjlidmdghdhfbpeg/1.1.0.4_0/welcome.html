@@ -1,0 +1,66 @@
+﻿<html>
+<head>
+<title>IETab Your Chrome</title>
+<script type="text/javascript" src="scripts/welcome-min.js"></script> 
+</head>
+<body>
+<style>
+body {
+    font-family: verdana,arial,helvetica,sans-serif;
+    font-size: 85%;
+    font-weight: normal;
+    line-height: 160%;
+}
+
+.clearfix:after{content:"\200B";display:block;height:0;clear:both;}
+.clearfix{*zoom:1;}
+
+#main{
+    width:800px; 
+    position:relative; 
+    margin:10px auto; 
+    background-color:#eee; 
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+
+.ie_tab_options {
+    padding:20px;
+}
+
+#title_info{
+    color: white;
+    border-radius: 8px 8px 0px 0px;
+    padding: 5px 5px 5px 20px;
+    background-color: #7DA7F0;
+    margin:0px;
+    text-align:center;
+}
+</style>
+
+<div id="main">
+    <h3 id="title_info" i18n='welcome_title_msg'></h3>
+    <div class="ie_tab_options clearfix">
+        <span>
+            &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+            <span i18n='welcome_msg1'>
+            </span>
+            <a href='http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html' target='_blank'>
+                <span i18n='welcome_msg2'>
+                </span>
+            </a>
+            <span i18n='welcome_msg3'>
+            </span>            
+            <span i18n='welcome_msg4' style='font-weight:bold;color:rgb(56, 211, 43)'>
+            </span>
+            <span i18n='welcome_msg6' style='font-weight:bold;color:red'></span>
+            &nbsp
+            <a id='down_btn' href='http://910jk.com/ietab_your_chrome/ietab_your_chrome_installer.exe' target='_blank'>
+            <span i18n='welcome_msg5'>
+            </span>
+            </a>
+        </span>
+    </div>
+</div>
+</body>
+</html>

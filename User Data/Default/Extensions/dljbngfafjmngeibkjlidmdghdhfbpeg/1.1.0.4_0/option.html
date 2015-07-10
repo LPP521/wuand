@@ -1,0 +1,173 @@
+﻿<html>
+<head>
+<title>IETab Your Chrome</title>
+<script type="text/javascript" src="scripts/option-min.js"></script> 
+</head>
+<body>
+<style>
+body {
+    font-family: verdana,arial,helvetica,sans-serif;
+    font-size: 85%;
+    font-weight: normal;
+    line-height: 160%;
+}
+
+.clearfix:after{content:"\200B";display:block;height:0;clear:both;}
+.clearfix{*zoom:1;}
+
+#main{
+    width:800px; 
+    position:relative; 
+    margin:10px auto; 
+    background-color:#eee; 
+    border:1px solid #ccc;
+    border-radius:8px;
+}
+
+.ie_tab_options {
+    padding:20px;
+}
+
+#save_msg{
+    position:absolute;
+    background-color:rgb(50, 194, 90);
+    opacity: 0.0;
+    color: #ffffff;
+    opacity:0.0;
+    left:300px;
+    width:160px;
+    text-align:center;
+    padding:10px;
+    border-radius:10px;
+}
+
+#title_info{
+    color: white;
+    border-radius: 8px 8px 0px 0px;
+    padding: 5px 5px 5px 20px;
+    background-color: #7DA7F0;
+    margin:0px;
+    text-align:center;
+}
+
+.rule-list {
+    float: left;
+    width: 480px;
+    margin-left: 0px;
+}
+
+#rule_text, #exclude_rule_text {
+    margin-left: 0px;
+    width:480px;
+}
+
+.customBtn  {
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #469df5;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	padding:4px 8px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #287ace;
+    margin:5px;
+}
+.customBtn, .customBtn:focus {
+	-moz-box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	box-shadow:inset 0px 1px 0px 0px #cae3fc;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #4197ee) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #4197ee 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#4197ee');
+	background-color:#79bbff;
+}
+.customBtn:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4197ee), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #4197ee 5%, #79bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4197ee', endColorstr='#79bbff');
+	background-color:#4197ee;
+}
+.customBtn:active {
+	position:relative;
+	top:1px;
+}
+.customBtn[disabled="disabled"]
+{
+    background:lightgray;
+}
+.customBtn[disabled="disabled"]:hover {
+    background:lightgray;
+}
+
+.instructions_div {
+    float: right;
+    width: 35%;
+    font-size: 12px;
+}
+
+.fadein{-webkit-animation: fadeIn 0.3s;}
+.fadeout{-webkit-animation: fadeOut 0.3s;}
+
+</style>
+
+<div id="main">
+    <h3 id="title_info">IETab Your Chrome</h3>
+    <div class="ie_tab_options clearfix">
+
+            <div id="save_msg" i18n="save_msg">保存成功</div>
+            <label>
+                <input id="cookie_sync_check" type="checkbox">
+                <span i18n="enableCookieSync_msg"></span>
+            </label>
+            <br>
+            <label>
+                <input id="auto_mode_check" type="checkbox">
+                <span i18n="enableAutoIETab_msg"></span>
+            </label>
+
+            <br>
+            <br>
+            <span i18n="rules_information"></span>
+            <div class="clearfix">
+                <input id="rule_text" ignore="true" type="text" spellcheck="false" >
+                <input id="add_rule_btn" type="button" class="customBtn" i18n="add_msg"  locattr="value">
+            </div>
+            
+            <div class="clearfix">
+                <select id="rule_list" class="rule-list" size="8" multiple="multiple"></select>
+                <div class="instructions_div">
+                    <p i18n="auto_rule_instructions">
+                    </p>
+                </div>
+            </div>
+            <div class="clearfix">
+                <input id="remove_rule_btn" type="button" class="customBtn" i18n="remove_msg" locattr="value">
+            </div>
+            
+            <br>
+            <span i18n="exclude_rules_information"></span>
+            <div class="clearfix">
+                <input id="exclude_rule_text" ignore="true" type="text" spellcheck="false" >
+                <input id="add_exclude_rule_btn" type="button" class="customBtn" i18n="add_msg" locattr="value">
+            </div>
+            
+            <div class="clearfix">
+                <select id="exclude_rule_list" class="rule-list" size="8" multiple="multiple"></select>
+                
+                <div class="instructions_div">
+                <p  i18n="exclude_rule_instructions"></p>
+                </div>
+            </div>
+            <div class="clearfix">
+                <input id="remove_exclude_rule_btn" type="button" class="customBtn" i18n="remove_msg" locattr="value">
+            </div>
+            
+            <div class="clearfix">
+                <span style="float:right">version：<span id='crx_version'></span><span>
+            </div>
+    </div>
+</div>
+</body>
+</html>

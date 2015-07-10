@@ -1,0 +1,74 @@
+{
+   "add_msg": {
+      "message": "\u589E\u52A0"
+   },
+   "auto_rule_instructions": {
+      "message": "\u901A\u914D\u7B26\u89C4\u5219\u5982\u4E0B\uFF1A\n\thttp://www.google.com/*\n\n\u6B63\u5219\u8868\u8FBE\u5F0F\u89C4\u5219\uFF08\u4EE5r/\u6253\u5934\uFF09\u5982\uFF1Ar/.*google.com.*"
+   },
+   "contextMenu_addRule_lnk_msg": {
+      "message": "\u6DFB\u52A0\u8BE5\u94FE\u63A5URL\u5230\u81EA\u52A8\u89C4\u5219"
+   },
+   "contextMenu_addRule_msg": {
+      "message": "\u6DFB\u52A0\u5F53\u524D\u9875URL\u5230\u81EA\u52A8\u89C4\u5219"
+   },
+   "contextMenu_msg": {
+      "message": "IETab Your Chrome"
+   },
+   "contextMenu_openIe_lnk_msg": {
+      "message": "\u7528IETab Your Chrome\u6253\u5F00\u8BE5\u94FE\u63A5"
+   },
+   "contextMenu_openIe_msg": {
+      "message": "\u7528IETab Your Chrome\u6253\u5F00\u5F53\u524D\u9875\u9762"
+   },
+   "default_title": {
+      "message": "IETab Your Chrome"
+   },
+   "description": {
+      "message": "IETab Your Chrome\uFF0C\u5728Chrome\u4E2D\u7528IE\u5185\u6838\u663E\u793A\u60A8\u7684\u7F51\u9875\u3002\u6BD4\u5176\u5B83IE\u6269\u5C55\u66F4\u9AD8\u6548\u3001\u8212\u9002\u3001\u7A33\u5B9A"
+   },
+   "enableAutoIETab_msg": {
+      "message": "\u542F\u7528\u81EA\u52A8ie\u6A21\u5F0F\u5207\u6362"
+   },
+   "enableCookieSync_msg": {
+      "message": "\u542F\u7528\u81EA\u52A8cookie\u540C\u6B65"
+   },
+   "exclude_rule_instructions": {
+      "message": "\u89C4\u5219\u5199\u6CD5\u5982\u4E0A\uFF0C\u5F53\u7B26\u5408\u89C4\u5219\u65F6\u4E0D\u4F1A\u81EA\u52A8\u5207\u6362\u5230IE\u6A21\u5F0F"
+   },
+   "exclude_rules_information": {
+      "message": "\u4E0D\u9700\u8981\u81EA\u52A8\u5207\u6362\u5230IE\u6A21\u5F0F\u7684URL"
+   },
+   "name": {
+      "message": "IETab Your Chrome"
+   },
+   "remove_msg": {
+      "message": "\u5220\u9664"
+   },
+   "rules_information": {
+      "message": "\u81EA\u52A8\u5207\u6362\u5230IE\u6A21\u5F0F\u7684URL"
+   },
+   "save_msg": {
+      "message": "\u4FDD\u5B58\u6210\u529F"
+   },
+   "welcome_msg1": {
+      "message": "\u7528\u6237\u60A8\u597D\uFF0C\u57282013\u5E7410\u6708\u4EFD\uFF0Cchrome web store\u5DF2\u7ECF\u5F00\u59CB"
+   },
+   "welcome_msg2": {
+      "message": "\u7981\u6B62\u5F00\u53D1\u8005\u53D1\u5E03NPAPI\u6280\u672F\u7684\u6269\u5C55"
+   },
+   "welcome_msg3": {
+      "message": "\uFF0C\u4F46\u662FIE TAB\u7C7B\u7684\u63D2\u4EF6\u5FC5\u987B\u4F7F\u7528\u8BE5\u6280\u672F\uFF0C\u4E3A\u4FDD\u8BC1IETab Your Chrome\u7684\u6B63\u5E38\u4F7F\u7528\uFF0C\u8BF7\u60A8\u624B\u52A8\u4E0B\u8F7D\u5E76\u5B89\u88C5\u8BE5\u6838\u5FC3\u7EC4\u4EF6\u5305"
+   },
+   "welcome_msg4": {
+      "message": "\uFF08\u6B64\u7EC4\u4EF6\u5305\u5DF2\u901A\u7ECF\u8FC7kaspersky\u3001norton\u3001\u91D1\u5C71\u3001360\u5B89\u5168\u68C0\u6D4B\uFF09\uFF0C"
+   },
+   "welcome_msg5": {
+      "message": "\u70B9\u6B64\u4E0B\u8F7D\u6700\u65B0\u7EC4\u4EF6\u5305"
+   },
+   "welcome_msg6": {
+      "message": "\u7136\u540E\u91CD\u542Fchrome\u6D4F\u89C8\u5668\u3002"
+   },
+   "welcome_title_msg": {
+      "message": "\u8BF7\u66F4\u65B0IETab Your Chrome\u6838\u5FC3\u7EC4\u4EF6"
+   }
+}

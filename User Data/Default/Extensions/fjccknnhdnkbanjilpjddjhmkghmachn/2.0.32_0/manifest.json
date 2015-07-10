@@ -1,0 +1,35 @@
+{
+   "background_page": "background.html",
+   "browser_action": {
+      "default_icon": "images/icon_19.png",
+      "default_title": "__MSG_default_title__",
+      "popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "css": [ "style.css" ],
+      "js": [ "floating_bar.js" ],
+      "matches": [ "http://*/*", "https://*/*", "ftp://*/*", "file:///*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "form.js" ],
+      "matches": [ "http://*/*", "https://*/*", "ftp://*/*", "file:///*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/icon_128.png",
+      "16": "images/icon_16.png",
+      "19": "images/icon_19.png",
+      "48": "images/icon_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC1lY/2Q9tw+FCrvORpYu8k1+fLUWf7OGD3QJJo3bOL/nS1mm6K7dyJrJp/09VBxlk/kd92U9eScVvpNk0E37EjqPdg69GOrZpOaMLGJ17eMDIz8D+D0iTsrZAppkfbVgGYW3Q7WAy9RKTqaXf5lUGHWcuGdHMedpJFEJTFpetOxQIDAQAB",
+   "name": "__MSG_name__",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "chrome://favicon/", "bookmarks", "http://*/*", "https://*/*", "contextMenus" ],
+   "plugins": [ {
+      "path": "plugin/convenience.dll"
+   } ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.0.32"
+}
