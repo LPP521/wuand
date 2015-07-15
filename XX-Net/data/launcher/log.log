@@ -1,0 +1,31 @@
+Jun 26 12:10:49 - [INFO] module goagent version _ not exist
+Jun 26 12:10:49 - [INFO] module goagent auto upgrade to version 3.1.49
+Jun 26 12:10:49 - [INFO] module launcher version _ not exist
+Jun 26 12:10:49 - [INFO] module launcher auto upgrade to version 1.4.0
+Jun 26 12:10:49 - [INFO] module php_proxy version _ not exist
+Jun 26 12:10:49 - [INFO] module php_proxy auto upgrade to version 1.0.0
+Jun 26 12:10:51 - [INFO] use goagent version:3.1.49
+Jun 26 12:10:51 - [INFO] goagent 3.1.49 started E:\TDDownload\XX-Net-master - 副本 (2)\goagent\3.1.49\start.py
+Jun 26 12:10:53 - [INFO] start goagent time cost 2513
+Jun 26 12:10:53 - [INFO] generate desktop shortcut
+Jun 26 12:10:53 - [DEBUG] launcher web_control 127.0.0.1:51967 "GET / 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51968 "GET /css/bootstrap.css 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51970 "GET /css/bootstrap-responsive.css 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51971 "GET /css/flat-ui.css 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51972 "GET /css/ladda-themeless.min.css 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51973 "GET /css/style.css 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51974 "GET /js/jquery-1.11.2.min.js 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51975 "GET /js/flat-ui.min.js 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51976 "GET /js/spin.min.js 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51977 "GET /js/site.js?20150512 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51978 "GET /js/bootstrap.min.js 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51979 "GET /js/ladda.min.js 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51980 "GET /js/jquery.timer.js 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51981 "GET /img/logo.png 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51982 "GET /img/fixed-width.png 
+Jun 26 12:10:54 - [DEBUG] launcher web_control 127.0.0.1:51985 "GET /favicon.ico 
+Jun 26 12:10:55 - [INFO] need_new_uuid: uuid is empty
+Jun 26 12:10:55 - [INFO] generate uuid:12f23885-2a7d-4e3e-b443-04ffb6f40188
+Jun 26 12:10:55 - [INFO] get uuid:12f23885-2a7d-4e3e-b443-04ffb6f40188
+Jun 26 12:10:56 - [WARNING] check_update fail:URLError(error(10054, ''),)
+Jun 26 12:10:56 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/README.md to E:\TDDownload\XX-Net-master - 副本 (2)\data\downloads\README.md

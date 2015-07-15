@@ -1,0 +1,8 @@
+modules:
+  goagent: {auto_start: 1, control_port: 8084, current_version: 3.1.49}
+  launcher: {current_version: 1.4.0}
+  php_proxy: {control_port: 8083, current_version: 1.0.0}
+update:
+  last_path: !!binary |
+    RTpcVEREb3dubG9hZFxYWC1OZXQtbWFzdGVyIC0guLGxviAoMilcbGF1bmNoZXJcMS40LjA=
+  uuid: 12f23885-2a7d-4e3e-b443-04ffb6f40188

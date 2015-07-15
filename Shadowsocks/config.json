@@ -1,0 +1,7 @@
+{
+	"local_port": 1080,
+	"server_password": [
+		["mdss01.mengsky.net:53387", "70619141", "aes-256-cfb"],
+		["jp.huoqiang.org:51129", "fPvsuCd1", "aes-256-cfb"]
+	]
+}
